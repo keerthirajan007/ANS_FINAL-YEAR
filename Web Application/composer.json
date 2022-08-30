@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.2",
+        "ctwillie/expo-server-sdk-php": "^2.0"
+    }
+}
